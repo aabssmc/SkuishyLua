@@ -1,0 +1,9 @@
+name: SkuishyLua
+version: '@version@'
+main: cc.aabss.skuishylua.SkuishyLua
+api-version: '1.21'
+prefix: 'SkuishyLua'
+depend: [LuaCraft]
+author: aabss
+description: skuishy for lua
+website: https://aabss.cc
